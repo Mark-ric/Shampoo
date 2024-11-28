@@ -1,0 +1,237 @@
+body{
+  
+  
+  
+}
+
+
+*{ margin: 0px;
+  padding: 0px;
+  font-family: nunito;
+  text-decoration: none;
+  
+  
+  
+}
+
+
+#shampo{font-family:"bokor","nunito"
+  
+  
+}
+  
+  
+  
+  
+
+
+.copyright {background-color: #d90026;
+  position: relative;
+  top: 40px;
+  padding: 20px;
+  margin-top: : 10px;
+  
+  
+  
+}
+
+
+nav{background-image: canva-cream-and-white-watercolor-background-document-a4-oBRHX7H4AeY.jpg("paper.gif")
+  color: white;
+  padding : 30px;
+  border-style: none;
+  border-width : 10px;
+  border-color: aquamarine;
+  text-decoration: none;
+  
+  
+}
+h1,ul,li { display: inline-block;
+  
+  text-decoration-line: none;
+  
+  
+li {color : chocolate;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  
+  
+}  
+  
+  
+}
+
+nav{margin: 10px;
+  
+  
+  
+  
+}
+
+
+li{ maring-right :25px;  
+  
+}
+#con{
+    text-decoration-line: none;
+     color: darkcyan;
+  
+}
+
+ul{ margin-left: 50%;
+  margin-right: 25px;
+  
+  
+}
+li{ color:   chocolate;
+   
+    
+  
+}
+
+li:hover{ color : white;
+  cursor: pointer;}
+  
+input{ width:  60%;
+  padding: 10px;
+  
+  
+  
+}
+
+.searchbar{
+  
+  padding-top: 40px;
+  position : sticky;
+  top : 30px;
+  
+  
+  
+}
+.box { border-color: black;
+      border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+  width: 220px;
+  margin-top: 20px;
+  margin-left: 30px;
+  
+}
+
+img{ text-align: center;
+  
+  
+}
+
+#products{text-align: center;
+  margin-right : 20px;
+  margin-top: 30px;
+  font-family: "nunito"
+  
+}
+
+.box:hover { background-color: black;
+  color: white;
+  cursor: pointer;
+  
+  
+}
+
+
+#about{
+  
+  margin-top: 40px;
+  
+  background-color: aliceblue;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  width: 600px;
+  display: inline-block;
+  padding-right: 37%;
+  margin-left: 15px;
+  position : relative;
+  right : 6px;
+  padding-left: : 10px;
+  
+  
+}
+
+#aboutus { margin-top: 20px;
+  padding-left: ;
+  display:  inline-block;
+  
+  
+}
+
+.contact{ display: block;
+  text-align: center;
+  margin-top: 30px;
+  background-color:  black;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+  transition-property: all;
+  transition-duration: 1s
+  
+  
+}
+.contact:hover {
+  
+  background-color: red;
+  
+  
+  
+}
+
+.whatsapplogo{
+  position: fixed;
+  top : 500px;
+  left : 910px;
+  
+}
+
+video {
+  align-video: center;
+  display: block;
+  margin:auto;
+  position: relative;
+  bottom: 40px;
+}
+
+
+.aboutimg{display: inline-block;
+  position:absolute;
+  right : 30px;
+  top: 2150px;
+  
+  
+  
+  
+}
+
+#con { 
+      margin-left: 5px;
+  
+  
+}
+
+html{ scroll-behavior: smooth;
+  
+  
+}
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
